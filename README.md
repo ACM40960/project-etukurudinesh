@@ -88,10 +88,11 @@ We have collected 2000 images containing a diverse representation of both weed a
 
  * Weed Detection:
  <p align="center">
-   <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image3.jpeg" alt="Weed Detection" width="500"/>
+   <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image3.jpeg" alt="Weed Detection" width="700"/>
  </p>
 <br>
 
+* Metrics for trained Weights:
  <p align="center">
   <img src="https://github.com/ACM40960/project-etukurudinesh/blob/main/Image/metrics.png" alt="Weed Detection" width="800"/>
  </p>
