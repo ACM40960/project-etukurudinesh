@@ -44,17 +44,20 @@ We have collected 2000 images containing a diverse representation of both weed a
  
 ### 🚀 1) Training:
 
-   * First, <span style="color: #e74c3c;">🚀 git clone</span> the repository and copy all the files from the `WeedDetection` folder and upload them to Google Drive.
-   * Now, in Google Drive, open the `main.ipynb` file, where you will find comprehensive documentation regarding training the model.
+   * First, <span style="color: #e74c3c;">🚀 git clone</span> and upload the `WeedDetection` folder into Google Drive.
+   * Now, in Google Drive, open the `main.ipynb` file, under `WeedDetection->WeedDetectionSystem`, where you will find comprehensive documentation regarding training the model.
+   * Note : The image dataset is placed in the following link. Copy the file and place it in the following path `WeedDetection->WeedDetectionSystem` in google drive.
+   *  (DO NOT UNZIP AFTER PLACING IT)
+   *  [Images-with-bounding-boxes](https://drive.google.com/file/d/1fUV6N-5y4sxw4rigrNEjRuCrm12PpZ0j/view?usp=sharing)
      
 <br>
 
 ### 🛠️ Setting up the Environment:
   * First of all you need anaconda, if you don't have click here for the installation. [Anaconda here](https://www.anaconda.com/download)
 
-  * Next download and save the `testing_and_detection` folder to your local system from google drive present under `WeedDetection` folder. 
+  * Next download and save the `testing_and_detection` folder to your local system from google drive located under the folder `WeedDetection`. 
    
- * Open Anaconda launcher and upload the folder `testing_and_detection` here.
+ * Open Anaconda launcher and upload the folder `testing_and_detection`.
    ## How?
      * Select the "file option" --> Open from path --> provide path --> Open.
      * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
@@ -68,7 +71,7 @@ We have collected 2000 images containing a diverse representation of both weed a
    * For detection, you need weights for <span style="color: #e74c3c;">🧠 CNN</span>.
    * These weights file must be placed in the below mentioned path in your local system once the model is trained:
    * WeedDetection-->testing_and_detection-->data-->weights.
-   * Now, open `Weed_Image_Recognition.ipynb` under WeedDetection-->testing_and_detection-->detection and run each cell for results. 
+   * Now, open `Weed_Image_Recognition.ipynb` under `WeedDetection-->testing_and_detection-->detection` and run each cell for results. 
  ### 📜 Note:
    **Important**: We have already generated the weight file and placed it in the designated [Google Drive link](https://drive.google.com/file/d/1AOxCaQqy_AY33fjcJWxemu5iwIJ4jvC3/view?usp=sharing). This step was taken to minimize the training time required. If you decide not to conduct the training, you can utilize this file. Please be aware that training this model typically takes 6-7 hours.
 
@@ -88,11 +91,6 @@ We have collected 2000 images containing a diverse representation of both weed a
    <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image3.jpeg" alt="Weed Detection" width="500"/>
  </p>
 <br>
-
- ### 🏁 Conclusion :
-
-🔍 During the training of the model based on the <span style="color: #e74c3c;">Darknet-53</span> architecture, we observed a <span style="color: #27ae60;">low loss curve</span> function. This indicates that the model is <span style="color: #27ae60;">effectively learning</span> from the training data. A low loss curve suggests that the model's predictions are getting closer to the <span style="color: #27ae60;">actual target values</span> (ground truth) as training progresses.
-
 
 ### 🔗 References:
 
