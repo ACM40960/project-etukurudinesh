@@ -60,7 +60,7 @@ We have collected 2000 images containing a diverse representation of both weed a
  * Open Anaconda launcher and upload the folder `testing_and_detection`.
    ## How?
      * Select the "file option" --> Open from path --> provide path --> Open.
-     * path example: C:\Users\SHIVAAMRUTH UPPALA\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
+     * path example: C:\Users\DINESH\OneDrive\Desktop\WeedDetectionSystem\testing_and_detection.
  <p align="center">
    <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image4.jpeg" width="500"/>
  </p>
