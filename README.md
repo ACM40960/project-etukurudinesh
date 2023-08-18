@@ -93,7 +93,7 @@ We have collected 2000 images containing a diverse representation of both weed a
 <br>
 
  <p align="center">
-  <img src="https://github.com/ACM40960/project-etukurudinesh/blob/main/Image/metrics.png" alt="Weed Detection" width="500"/>
+  <img src="https://github.com/ACM40960/project-etukurudinesh/blob/main/Image/metrics.png" alt="Weed Detection" width="800"/>
  </p>
 
  * Average IOU (Intersection Over Union): 71%   
