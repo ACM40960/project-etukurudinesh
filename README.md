@@ -96,7 +96,7 @@ We have collected 2000 images containing a diverse representation of both weed a
   <img src="https://github.com/ACM40960/project-etukurudinesh/blob/main/Image/metrics.png" alt="Weed Detection" width="500"/>
  </p>
 
- Average IOU (Intersection Over Union): 71%
+ Average IOU (Intersection Over Union): 71%   
  Mean Average Precision: 77%  
  
 
