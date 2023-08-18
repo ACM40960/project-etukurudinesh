@@ -11,7 +11,7 @@ In modern agriculture, optimizing crop yield is vital amidst weed-related challe
 <br>
 
 <p align="center">
-  <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/weedimg.jpeg" alt="Weed Detection" width="500"/>
+  <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/weedimg.jpeg" alt="Weed Detection" width="700"/>
 </p>
 
 <br>
@@ -81,7 +81,7 @@ We have collected 2000 images containing a diverse representation of both weed a
  * LOSS CURVE:
    
  <p align="center">
-  <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image2.jpeg" alt="Weed Detection" width="700"/>
+  <img src="https://github.com/ACM40960/project-shiva-46/blob/main/images/image2.jpeg" alt="Weed Detection" width="800"/>
  </p>
 
  <br>
