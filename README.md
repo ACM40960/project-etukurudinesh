@@ -97,7 +97,8 @@ We have collected 2000 images containing a diverse representation of both weed a
  </p>
 
  Average IOU (Intersection Over Union): 71%
- Mean Average Precision: 77%
+ Mean Average Precision: 77%  
+ 
 
 ### 🔗 References:
 
